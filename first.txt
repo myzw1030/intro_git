@@ -2,3 +2,5 @@ gitの練習です
 
 変更
 aaaa
+・git add
+・git commit
